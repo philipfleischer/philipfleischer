@@ -9,7 +9,7 @@ Low-level systems, networking, operating systems, and robust software design.
 **Featured work:**  
 - **Notes** - Full-stack web applications (MERN): [Web-Site](https://notes-full-stack-w3s5.onrender.com/)
 - **Todo** - Full-stack web application (SvelteKit, Prisma ORM, postgreSQL): [Web-Site](https://todo-of7e.vercel.app)
-- **Network-Prog** - Collection of Network programming in python: https://philipfleischer.github.io/Minimal-Networking-Programming/
+- **Network-Prog** - Collection of Network programming in python: [Minimal-Networking-Programming/](https://github.com/philipfleischer/Minimal-Network-Programming)
 
 **Portfolio**: https://philipfleischer.github.io/Portfolio/  
 **LinkedIn**: https://www.linkedin.com/in/philip-fleischer-ab9439229/
