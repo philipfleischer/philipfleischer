@@ -25,9 +25,9 @@ I enjoy building software close to the system and network layers, with an emphas
 - **Todo** – Full-stack web application built with SvelteKit, Prisma ORM, and PostgreSQL  
   [Live Demo](https://todo-of7e.vercel.app)
 
-- **Minimal-Networking-Programming** –  
+- **Networking-Programming** –  
   A curated collection of small Python projects demonstrating TCP/IP sockets, application-layer protocols (HTTP, SMTP, FTP, IMAP), encryption, and concurrency  
-  [Repository](https://github.com/philipfleischer/Minimal-Network-Programming)
+  [Repository](https://github.com/philipfleischer/Network-Programming)
 
 ---
 
