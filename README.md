@@ -1,7 +1,6 @@
 # Philip Elias Fleischer
 
-Informatics student (Programming & System Architecture) at the University of Oslo,  
-with a strong focus on **systems programming, networking, and backend/full-stack development**.
+Informatics student (Programming & System Architecture) at the University of Oslo, with a strong focus on **systems programming, networking, and backend/full-stack development**.
 
 I enjoy building software close to the system and network layers, with an emphasis on correctness, robustness, and clear design.
 
@@ -13,7 +12,6 @@ I enjoy building software close to the system and network layers, with an emphas
 - Operating systems
 - System and network security
 - Backend and full-stack development
-- Robust and maintainable software design
 
 ---
 
