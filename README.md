@@ -16,6 +16,8 @@ I enjoy building software close to the system and network layers, with an emphas
 ---
 
 ## Featured Projects
+- **Flashcard** – Full-stack MERN application  
+  [Repo]([https://notes-full-stack-w3s5.onrender.com/](https://github.com/philipfleischer/Flash-Card))
 
 - **Notes** – Full-stack MERN application  
   [Live Demo](https://notes-full-stack-w3s5.onrender.com/)
