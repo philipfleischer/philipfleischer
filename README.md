@@ -17,7 +17,7 @@ I enjoy building software close to the system and network layers, with an emphas
 
 ## Featured Projects
 - **Flashcard** – Full-stack MERN application  
-  [Live Demo](https://flash-card-2-flyq.onrender.com/login)
+  [Live Demo](https://flash-card-2-flyq.onrender.com)
 
 - **Notes** – Full-stack MERN application  
   [Live Demo](https://notes-full-stack-w3s5.onrender.com/)
