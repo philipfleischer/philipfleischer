@@ -16,8 +16,6 @@ I enjoy building software close to the system and network layers, with an emphas
 ---
 
 ## Featured Projects
-- **Flashcard** – Full-stack MERN application  
-  [Live Demo](https://flash-card-2-flyq.onrender.com)
 
 - **Notes** – Full-stack MERN application  
   [Live Demo](https://notes-full-stack-w3s5.onrender.com/)
@@ -29,6 +27,9 @@ I enjoy building software close to the system and network layers, with an emphas
   A curated collection of small Python projects demonstrating TCP/IP sockets, application-layer protocols (HTTP, SMTP, FTP, IMAP), encryption, and concurrency  
   [Repository](https://github.com/philipfleischer/Network-Programming)
 
+- **Flashcard** – Full-stack MERN application  
+  [Live Demo](https://flash-card-2-flyq.onrender.com)
+  
 ---
 
 ## Featured Coursework
