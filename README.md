@@ -17,18 +17,12 @@ I enjoy building software close to the system and network layers, with an emphas
 
 ## Featured Projects
 
-- **Notes** – Full-stack MERN application  
-  [Live Demo](https://notes-full-stack-w3s5.onrender.com/)
-
-- **Todo** – Full-stack web application built with SvelteKit, Prisma ORM, and PostgreSQL  
-  [Live Demo](https://todo-of7e.vercel.app)
+- **GeoScore** - Android Application with Kotlin
+    [Repository](https://github.com/philipfleischer/GeoScore)
 
 - **Networking-Programming** –  
   A curated collection of small Python projects demonstrating TCP/IP sockets, application-layer protocols (HTTP, SMTP, FTP, IMAP), encryption, and concurrency  
   [Repository](https://github.com/philipfleischer/Network-Programming)
-
-- **Flashcard** – Full-stack MERN application  
-  [Live Demo](https://flash-card-2-flyq.onrender.com)
   
 ---
 
