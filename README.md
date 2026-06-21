@@ -43,7 +43,5 @@ I enjoy building software close to the system and network layers, with an emphas
 ---
 
 ## Links
-- **Portfolio:** https://philipfleischer.github.io/Portfolio/
-- **LinkedIn:** https://www.linkedin.com/in/philip-fleischer-ab9439229/
+- **Portfolio:** https://philipfleischer.github.io
 
-Currently seeking opportunities related to backend, systems, or networking development.
