@@ -26,19 +26,12 @@ I'm most interested in the design side of systems: how they're structured, how t
   
 ---
 
-## Featured Coursework
+## Work in Progress
 
-- **Minimal IP Stack** –  
-  Implemented a custom IP stack with routing in Mininet, including packet forwarding and routing logic  
-  [Repository](https://github.com/philipfleischer/Networks/tree/main/IP_Routing_Project)
+- **Zero-Trust Continuum** –  
+  This is a master thesis project I am working on, that correlates to real world applications and addresses concerns and problems in todays interconnected world.
+  [Repository](https://github.com/philipfleischer/PEF_Project)
 
-- **Object-Oriented Programming** –  
-  Collection of four OOP projects for natural sciences, focusing on structure, abstraction, and reusability  
-  [Repository](https://github.com/philipfleischer/Object-oriented-Programming)
-
-- **Weather Map Application (VAFF)** –  
-  Android application in Kotlin using the Norwegian Meteorological Institute’s weather API  
-  [Repository](https://github.com/philipfleischer/Weather-Map-Application)
 
 ---
 
