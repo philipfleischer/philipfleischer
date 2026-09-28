@@ -13,6 +13,19 @@ I'm most interested in the design side of systems: how they're structured, how t
 - Networking and systems fundamentals
 - Practical, responsible use of AI tools in engineering
 
+
+---
+
+## Work in Progress
+
+- **Zero-Trust Continuum** –  
+  This is a master thesis project I am working on, that correlates to real world applications and addresses concerns and problems in todays interconnected world.
+  [Repository](https://github.com/philipfleischer/PEF_Project)
+
+- **Statistics RMI project**
+    This is the first mandatory Project in IN5020 - Distributed Systems, A statistics server using Java RMI.
+    [Repository](https://github.com/philipfleischer/IN5020-A1-G1-RMI)
+  
 ---
 
 ## Featured Projects
@@ -23,14 +36,6 @@ I'm most interested in the design side of systems: how they're structured, how t
 - **Networking-Programming** –  
   A curated collection of small Python projects demonstrating TCP/IP sockets, application-layer protocols (HTTP, SMTP, FTP, IMAP), encryption, and concurrency  
   [Repository](https://github.com/philipfleischer/Network-Programming)
-  
----
-
-## Work in Progress
-
-- **Zero-Trust Continuum** –  
-  This is a master thesis project I am working on, that correlates to real world applications and addresses concerns and problems in todays interconnected world.
-  [Repository](https://github.com/philipfleischer/PEF_Project)
 
 
 ---
