@@ -21,15 +21,15 @@ I'm most interested in the design side of systems: how they're structured, how t
 - **Zero-Trust Continuum** –  
   This is a master thesis project I am working on, that correlates to real world applications and addresses concerns and problems in todays interconnected world.
   [Repository](https://github.com/philipfleischer/PEF_Project)
-
-- **Statistics RMI project**
-    This is the first mandatory Project in IN5020 - Distributed Systems, A statistics server using Java RMI.
-    [Repository](https://github.com/philipfleischer/IN5020-A1-G1-RMI)
   
 ---
 
 ## Featured Projects
 
+- **Statistics RMI project**
+    This is the first mandatory Project in IN5020 - Distributed Systems, A statistics server using Java RMI.
+    [Repository](https://github.com/philipfleischer/IN5020-A1-G1-RMI)
+  
 - **GeoScore** - Android Application with Kotlin
     [Repository](https://github.com/philipfleischer/GeoScore)
 
