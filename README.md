@@ -2,7 +2,7 @@
 
 Informatics student (Master's in Programming & System Architecture) at the University of Oslo, with a growing focus on **cloud and fog architecture, distributed systems, and security**.
 
-I'm most interested in the design side of systems: how they're structured, how trust and access should flow through them, and the trade-offs between security, performance, and reliability, especially across the edge-fog-cloud continuum. I enjoy reasoning about architecture more than writing large amounts of low-level code, and I make active use of AI tools to move faster on implementation so I can spend more time on design and evaluation.
+I'm most interested in the design side of systems: how they're structured, how trust and access should flow through them, and the trade-offs between security, performance, and reliability, especially across the edge-fog-cloud continuum. I enjoy reasoning about architecture and I make active use of AI tools to move faster on implementation so I can spend more time on design and evaluation.
 
 ---
 
