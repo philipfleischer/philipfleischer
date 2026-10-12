@@ -10,6 +10,7 @@ I'm most interested in the design side of systems: how they're structured, how t
 - Cloud, fog and edge computing
 - Distributed systems architecture
 - Network and cloud security (IAM, access control, zero-trust)
+- Cybersecurity in Industrial Systems (critical infrastructure, IEC62443)
 - Networking and systems fundamentals
 - Practical, responsible use of AI tools in engineering
 
