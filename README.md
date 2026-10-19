@@ -28,8 +28,12 @@ I'm most interested in the design side of systems: how they're structured, how t
 ## Featured Projects
 
 - **Statistics RMI project**
-    This is the first mandatory Project in IN5020 - Distributed Systems, A statistics server using Java RMI.
+    This is the first mandatory Project in IN5020 - Distributed Systems. A statistics server using Java RMI.
     [Repository](https://github.com/philipfleischer/IN5020-A1-G1-RMI)
+
+- **Replicated Bank Account**
+    The second mandatory project in IN5020 - Distributed Systems. A bank account replicated across several servers using Java RMI and totally ordered broadcast.
+    [Repository](https://github.com/philipfleischer/IN5020-A2-G1-RBA)
   
 - **GeoScore** - Android Application with Kotlin
     [Repository](https://github.com/philipfleischer/GeoScore)
